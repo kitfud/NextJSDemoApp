@@ -1,4 +1,4 @@
-import '../../styles.css'
+
 import 'bootstrap/dist/css/bootstrap.css'
 
 function MyApp({ Component, pageProps }) {
